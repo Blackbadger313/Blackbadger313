@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Farid's github stats](https://github-readme-stats.vercel.app/api?username=Blackbadger313&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Blackbadger313/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
